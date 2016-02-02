@@ -1,0 +1,33 @@
+body{
+background-color:#C45D3F;
+}
+#header{
+background-color:#401E14;
+font-family:Constantia;
+font-size:35px;
+color:white;
+}
+#menu{
+font-family:Constantia;
+font-size:20px;
+}
+#b{
+ padding-left:20px;
+}
+#c{
+ padding-bottom:20px;
+}
+.map{
+width:820px;
+height:270px;
+}
+footer {
+      background-color: #401E14;
+      padding: 15px;
+    }
+#text_img{text-align:center;}	
+#text_a{text-align:justify;}
+	
+	#adjust{
+	overflow:auto;
+	}
