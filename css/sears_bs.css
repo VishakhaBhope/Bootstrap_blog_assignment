@@ -1,5 +1,5 @@
 body{
-background-color:#C45D3F;
+background-color:#E5E0AF;
 }
 #header{
 background-color:#401E14;
@@ -26,8 +26,11 @@ footer {
       padding: 15px;
     }
 #text_img{text-align:center;}	
-#text_a{text-align:justify;}
+#text_a{text-align:justify; padding:10px; line-height:200%;}
 	
 	#adjust{
 	overflow:auto;
 	}
+	.img-center{
+	 text-align:center;
+	 }
